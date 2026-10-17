@@ -27,6 +27,6 @@
   "homepage": "https://github.com/swc-project/helpers#readme",
   "devDependencies": {
     "@swc/cli": "^0.8.1",
-    "@swc/core": "^1.15.47"
+    "@swc/core": "^1.16.1"
   }
 }
